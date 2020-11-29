@@ -1,0 +1,36 @@
+.container{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgb(32, 224, 48);
+}
+.heading{
+    text-align: center;
+    outline: none;
+
+}
+h1{
+    color: white;
+    border: black;
+}
+
+input{
+    height: 28px;
+    width: 190px;
+    outline: none;
+    border: none;
+    box-shadow: 2px 1px 4px rebeccapurple;
+}
+
+.button{
+    margin-top: 20px;
+    
+}
+button{
+    height: 30px;
+    width: 200px;
+    border: none;
+    box-shadow: 2px 1px 4px rebeccapurple;
+    outline: none;
+}
